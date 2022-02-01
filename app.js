@@ -33,7 +33,3 @@ console.log(firstName, lastName, email);
 app.listen(3006, function(res) {
   console.log("Newsletter-Signup Server is running on port 3005")
 })
-
-
-// API Key for mailChimps>
-// 8f3279cde5ba44d56ddf3b90723468b6-us14
